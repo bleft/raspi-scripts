@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # script called from cron
 # usage /usr/bin/python test >> output.log
 # TODO: get current temp and humid from DTH11
